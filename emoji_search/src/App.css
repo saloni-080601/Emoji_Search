@@ -1,0 +1,42 @@
+.Zero{
+  padding-right: 69%;
+  border-radius:30px ;
+  padding-top:20px;
+  /* margin: .20px; */
+  align-items: center;
+  font-size: 30px;
+  padding-left: 20px;
+  margin-bottom: 30px;
+}
+.App{
+  text-align: center;
+}
+.react{
+  font-size: 30px;
+  text-align: left;
+}
+
+.Copybor{
+  color: white;
+  cursor: pointer;
+  /* display: none; */
+  list-style: none;
+}
+.emoj:hover {
+  background-color: rgb(150, 141, 141);
+  display: flex;
+  /* border-radius: 30px; */
+  
+}
+.emoj{
+  display: flex;
+  padding: 20px;
+  justify-content: space-between;
+  margin: 0px;
+  border: 1px solid;
+  margin: 0px 70px 0px 70px;
+  border-radius: 10px;
+}
+.div{
+  margin-left: 10px;
+}
